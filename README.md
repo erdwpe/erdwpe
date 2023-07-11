@@ -1,6 +1,5 @@
 <p align="center">
-<a href="https://www.threads.net/@xrlangga"><img align="center" src="https://threads-card.vercel.app/xrlangga/card"/></a>
-</p>
+<iframe src="http://threads-card.vercel.app/xrlangga/card" width="770" height="500" /></p>
 <p align="center">
 <a href="https://discordapp.com/users/erdwpe"><img align="center" src="https://discord.c99.nl/widget/theme-3/356315685527355393.png"/></a>
 </p>
